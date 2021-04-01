@@ -1,6 +1,6 @@
 # lit-exchange-rates
 
-Курсы валют
+Курсы валют (exchange rates) on lit element
 
 Demo - https://resu062.github.io/lit-exchange-rates/index.html
 
