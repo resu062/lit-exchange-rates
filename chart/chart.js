@@ -1,4 +1,4 @@
-import { LitElement, html, css } from 'https://cdn.pika.dev/lit-element';
+import { LitElement, html, css } from 'https://unpkg.com/lit-element@2.5.0?module';
 import 'https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js';
 
 customElements.define('lit-chart', class LitChart extends LitElement {
